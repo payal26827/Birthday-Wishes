@@ -98,3 +98,18 @@ main,#open{position:relative;z-index:1}
 
 .rc,.ph,.env{transition:box-shadow .35s,background .5s!important}
 #secret{color:var(--pink)}
+
+.couple-name {
+  margin-top: 8px;
+  margin-bottom: 18px;
+
+  text-align: center;
+
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+  font-weight: 600;
+
+  color: #ff9eb5;
+
+  text-shadow: 0 0 12px rgba(255, 158, 181, 0.35);
+}
